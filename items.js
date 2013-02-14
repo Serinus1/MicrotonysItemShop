@@ -4340,6 +4340,29 @@ var items =
 		"Active"]
 	},
 	{
+		"id": "9999",
+		"icon": "3024_Glacial_Shroud.dds",
+		"name": "3024",
+		"description": "3024",
+		"gold": {
+			"base": 125,
+			"total": 1160,
+			"sell": 812
+		},
+		"into": ["3157"],
+		"from": ["1029",
+		"1052",
+		"1029"],
+		"depth": 2,
+		"stats": {
+			"FlatMPPoolMod": 300.0,
+			"FlatMagicDamageMod": 25.0
+		},
+		"tags": ["Armor",
+		"SpellDamage",
+		"Magic"]
+	},
+	{
 		"id": "3078",
 		"icon": "3078_Trinity_Force.dds",
 		"name": "3078",
