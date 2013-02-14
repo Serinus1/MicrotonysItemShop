@@ -219,9 +219,9 @@ var items =
 		"name": "2041",
 		"description": "2041",
 		"gold": {
-			"base": 225,
-			"total": 225,
-			"sell": 90
+			"base": 345,
+			"total": 345,
+			"sell": 138
 		},
 		"stats": {
 			
