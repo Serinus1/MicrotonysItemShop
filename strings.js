@@ -407,7 +407,7 @@ var strings =
 	"game_item_description_2038": "<consumable>Click to Consume:<\/consumable> Grants 15-24% Attack Speed, based on champion level, and 8% Critical Strike Chance for 3 minutes.",
 	"game_item_description_2039": "<consumable>Click to Consume:<\/consumable> Grants 25-40 Ability Power, based on champion level, and 10% Cooldown Reduction for 3 minutes.",
 	"game_item_description_2040": "<consumable>Click to Consume:<\/consumable> Grants 20-42 Attack Damage based on champion level, 20-42% Attack Speed based on champion level, and 15% increased damage to Turrets for 4 minutes.",
-	"game_item_description_2041": "<active>UNIQUE Active:<\/active> Consumes a charge to restore 100 health and 40 mana over 10 seconds.<br><unique>UNIQUE Passive:<\/unique> Starts with 3 charges and refills each time you stop by your shop.",
+	"game_item_description_2041": "<active>UNIQUE Active:<\/active> Consumes a charge to restore 120 health and 60 mana over 12 seconds.<br><unique>UNIQUE Passive:<\/unique> Starts with 3 charges and refills each time you stop by your shop.",
 	"game_item_description_2042": "<consumable>Click to Consume:<\/consumable> Grants detection of nearby invisible units for up to 5 minutes or until your champion dies.",
 	"game_item_description_2043": "<consumable>Click to Consume:<\/consumable> Places an invisible ward that reveals the surrounding area and invisible units in the area for 3 minutes.",
 	"game_item_description_2044": "<consumable>Click to Consume:<\/consumable> Places an invisible ward that reveals the surrounding area for 3 minutes.",
