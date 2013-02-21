@@ -136,7 +136,7 @@ var items = {"basicitem":{"notes":[],"stacks":1,"consumed":false,"inStore":true,
 
 , {"id":"1028","icon":"1028_Ruby_Sphere.dds","name":"1028","description":"1028"
 , "gold":{"base":475,"total":475,"sell":333}
-, "into":["3067","3105","3044","3010","3136","3083","2045","3084","3132","3071"],"stats":{"FlatHPPoolMod":180.0}
+, "into":["2049","3067","3105","3044","3010","3136","3083","3084","3132","3071","2045"],"stats":{"FlatHPPoolMod":180.0}
 , "tags":["Health","Defense"]}
 
 , {"id":"1054","icon":"033_Buckler.dds","name":"1054","description":"1054"
@@ -170,8 +170,8 @@ var items = {"basicitem":{"notes":[],"stacks":1,"consumed":false,"inStore":true,
 , "tags":["Armor","Defense","Damage","Attack"]}
 
 , {"id":"2049","icon":"2049_Sightstone.dds","name":"2049","description":"2049"
-, "gold":{"base":700,"total":700,"sell":280}
-, "into":["2045"],"stats":{"FlatHPPoolMod":100.0}
+, "gold":{"base":475,"total":950,"sell":280}
+, "from":["1028"],"into":["2045"],"depth":2,"stats":{"FlatHPPoolMod":180.0}
 , "tags":["Health","Defense","Consumable","Active"]}
 
 , {"id":"3096","icon":"3062_Soul_Pendant.dds","name":"3096","description":"3096"
@@ -395,8 +395,8 @@ var items = {"basicitem":{"notes":[],"stacks":1,"consumed":false,"inStore":true,
 , "tags":["SpellDamage","Magic","Mana"]}
 
 , {"id":"2045","icon":"2049_Ruby_Ward.DDS","name":"2045","description":"2045"
-, "gold":{"base":125,"total":1300,"sell":520}
-, "from":["2049","1028"],"depth":2,"stats":{"FlatHPPoolMod":300.0}
+, "gold":{"base":125,"total":1550,"sell":620}
+, "from":["2049","1028"],"depth":3,"stats":{"FlatHPPoolMod":360.0}
 , "tags":["Health","Defense","Consumable","Active"]}
 
 , {"id":"3134","icon":"037_Big_Stick.dds","name":"3134","description":"3134"
