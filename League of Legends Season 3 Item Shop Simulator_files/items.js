@@ -71,7 +71,7 @@ var items = {"basicitem":{"notes":[],"stacks":1,"consumed":false,"inStore":true,
 
 , {"id":"1029","icon":"1029_Cloth_Armour.dds","name":"1029","description":"1029"
 , "gold":{"base":300,"total":300,"sell":210}
-, "into":["3047","3106","3082","3097","3190","3159","3075"],"stats":{"FlatArmorMod":15.0}
+, "into":["3047","3106","3082","3097","3190","3159","3075","3191"],"stats":{"FlatArmorMod":15.0}
 , "tags":["Armor","Defense"]}
 
 , {"id":"3170","icon":"3170_Moonflair_Spellblade.dds","name":"3170","description":"3170"
@@ -121,7 +121,7 @@ var items = {"basicitem":{"notes":[],"stacks":1,"consumed":false,"inStore":true,
 
 , {"id":"1052","icon":"1052_Amplifying_Scepter.dds","name":"1052","description":"1052"
 , "gold":{"base":435,"total":435,"sell":305}
-, "into":["3098","3145","3041","3108","3057","3136","3135","3116","3114","3187","3151","3128"],"stats":{"FlatMagicDamageMod":20.0}
+, "into":["3098","3145","3041","3108","3057","3136","3135","3116","3114","3187","3151","3128","3191"],"stats":{"FlatMagicDamageMod":20.0}
 , "tags":["SpellDamage","Magic"]}
 
 , {"id":"1056","icon":"165_Harmony_Ring.dds","name":"1056","description":"1056"
@@ -181,7 +181,7 @@ var items = {"basicitem":{"notes":[],"stacks":1,"consumed":false,"inStore":true,
 
 , {"id":"1031","icon":"1031_Chain_Vest.dds","name":"1031","description":"1031"
 , "gold":{"base":720,"total":720,"sell":504}
-, "into":["3026","3068","3024","3157","3005","3056","3090","3075"],"stats":{"FlatArmorMod":40.0}
+, "into":["3026","3068","3024","3005","3056","3090","3075"],"stats":{"FlatArmorMod":40.0}
 , "tags":["Armor","Defense"]}
 
 , {"id":"1018","icon":"1018_Cloak_of_Agility.dds","name":"1018","description":"1018"
@@ -920,8 +920,8 @@ var items = {"basicitem":{"notes":[],"stacks":1,"consumed":false,"inStore":true,
 , "tags":["Armor","Defense","Mana","Magic","CooldownReduction","Aura"]}
 
 , {"id":"3157","icon":"3157_Zhonyas_Hourglass.dds","name":"3157","description":"3157"
-, "gold":{"base":780,"total":3100,"sell":2170}
-, "from":["1031","1058"],"depth":2,"stats":{"FlatArmorMod":50.0,"FlatMagicDamageMod":100.0}
+, "gold":{"base":780,"total":3410,"sell":2387}
+, "from":["3191","1058"],"depth":3,"stats":{"FlatArmorMod":50.0,"FlatMagicDamageMod":120.0}
 , "tags":["Armor","Defense","SpellDamage","Magic","Active"]}
 
 , {"id":"3181","icon":"3181_SanguineBlade.dds","name":"3181","description":"3181"
@@ -984,7 +984,7 @@ var items = {"basicitem":{"notes":[],"stacks":1,"consumed":false,"inStore":true,
 , "from":["3140","1038"],"depth":3,"stats":{"FlatPhysicalDamageMod":60.0,"FlatSpellBlockMod":45.0}
 , "tags":["SpellBlock","Defense","Damage","Attack","NonbootsMovement","Movement","Active"]}
 
-, {"id":"3101","icon":"2047_OraclesExtract.dds","name":"3101","description":"3101"
+, {"id":"3191","icon":"2047_OraclesExtract.dds","name":"3191","description":"3191"
 , "gold":{"base":1160,"total":1160,"sell":812}
 , "into":["3157"],"from":["1029","1052","1029"],"depth":2,"stats":{"FlatMagicDamageMod":25.0,"FlatPhysicalBlockMod":30.0}
 , "tags": ["Armor","SpellDamage","Magic"]}
