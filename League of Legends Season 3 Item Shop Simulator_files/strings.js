@@ -84,13 +84,13 @@ var strings = {"flash_itemShop_broker_btnBuy_buy":"BUY","flash_itemShop_broker_b
 
 ,"game_item_description_2044":"<consumable>Click to Consume:<\/consumable> Places an invisible ward that reveals the surrounding area for 3 minutes."
 
-,"game_item_description_2045":"<stats>+300 Health<\/stats><br><br><unique>UNIQUE Passive - Ward Refresh:<\/unique> Starts with 5 charges and refills each time you visit your shop.<br><active>UNIQUE Active - Ghost Ward:<\/active> Consumes a charge to place an invisible ward that reveals the surrounding area for 3 minutes. You may have a maximum of 3 wards placed from this item at once."
+,"game_item_description_2045":"<stats>+360 Health<\/stats><br><br><unique>UNIQUE Passive - Ward Refresh:<\/unique> Starts with 5 charges and refills each time you visit your shop.<br><active>UNIQUE Active - Ghost Ward:<\/active> Consumes a charge to place an invisible ward that reveals the surrounding area for 3 minutes. You may have a maximum of 3 wards placed from this item at once."
 
 ,"game_item_description_2047":"<consumable>Click to Consume:<\/consumable> Grants detection of nearby invisible units for up to 5 minutes or until your champion dies."
 
 ,"game_item_description_2048":"<consumable>Click to Consume:<\/consumable> Grants 30-64 Ability Power based on champion level, 15% Cooldown Reduction, and a huge boost to mana and energy regeneration for 4 minutes."
 
-,"game_item_description_2049":"<stats>+100 Health<\/stats><br><br><unique>UNIQUE Passive - Ward Refresh:<\/unique> Starts with 4 charges and refills each time you visit your shop.<br><active>UNIQUE Active - Ghost Ward:<\/active> Consumes a charge to place an invisible ward that reveals the surrounding area for 3 minutes. You may have a maximum of 2 wards placed from this item at once."
+,"game_item_description_2049":"<stats>+180 Health<\/stats><br><br><unique>UNIQUE Passive - Ward Refresh:<\/unique> Starts with 4 charges and refills each time you visit your shop.<br><active>UNIQUE Active - Ghost Ward:<\/active> Consumes a charge to place an invisible ward that reveals the surrounding area for 3 minutes. You may have a maximum of 2 wards placed from this item at once."
 
 ,"game_item_description_2050":"<consumable>Click to Consume:<\/consumable> Places an invisible ward that reveals the surrounding area for 60 seconds."
 
